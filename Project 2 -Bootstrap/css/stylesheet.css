@@ -1,0 +1,74 @@
+
+body{
+    margin: auto;
+    background-color: #c8d3e7;
+    font-family: PT Sans, Montserrat;
+    color: #14274e;
+}
+
+hr{
+    border-style: ridge;
+    border-color: #8fb5c0;
+    width: auto;
+    
+}
+a:hover {
+    color: #f7f158;
+}
+#title{
+    background-color: #a5d6d2;
+}
+
+h2 {
+    background-color: #3961a7;
+    font-size: 20px;
+}
+
+.heading1{
+    font-size: 60px;
+    color: #f7f158;
+    padding: 0% 2%;
+    background-color: #3961a7;
+}
+
+.heading2{
+    padding-top:25px;
+    font-size: 20px;
+    color: #f7f158;
+    padding: 0% 1%;
+    background-color: #3961a7;
+}
+
+.heading3{
+    font-size: 20px;
+    color: #f7f158;
+    padding: 0% 1%;
+}
+.ContInfo{
+    font-size: 60px;
+    color: #f7f158;
+}
+.InfoA{
+    font-size: 65px;
+    color:#f7f158;
+    font-family: Roboto;
+}
+.InfoB{
+    font-size: 20px;
+    color: #f7f158; 
+}
+.InfoC{
+    font-size: 20px; 
+}
+.navbar-brand{
+    font-size: 6rem;
+    font-weight: bold;
+    color: #14274e;
+}
+.navi-link{
+    font-size: 1.2rem;
+}
+
+.navi-item{
+    padding:0 21px;
+}
